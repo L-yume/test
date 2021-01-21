@@ -90,7 +90,7 @@ class Pikachu:
             t.fd(a)
             l2.append(t.position())
 
-        # 上嘴唇yi
+        # 上嘴唇yier
 
         t.seth(10)
         t.circle(50, 15)
